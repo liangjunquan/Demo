@@ -18,4 +18,5 @@ public class LiangJunQuan {
 		this.name = name;
 	}
 	
+	
 }
